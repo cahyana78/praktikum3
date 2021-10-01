@@ -12,10 +12,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestTP01 {
 
     private static final String[] INPUT = {
-            "6","7"
+            "10000 3"
     };
     private static final String[] OUTPUT = {
-            "Enam","Bukan enam"
+            "300000"
     };
 
     @Test
