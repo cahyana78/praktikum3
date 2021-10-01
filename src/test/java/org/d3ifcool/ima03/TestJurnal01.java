@@ -9,12 +9,10 @@ import java.io.*;
 public class TestJurnal01 {
 
     private static final String[] INPUT = {
-            "12",
-            "13"
+            "10000 30"
     };
     private static final String[] OUTPUT = {
-            "Kelipatan enam",
-            "Bukan kelipatan enam"
+            "300000"
     };
 
     @Test
