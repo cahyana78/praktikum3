@@ -9,10 +9,10 @@ import java.io.*;
 public class TestJurnal03 {
 
     private static final String[] INPUT = {
-            "75 78 74", "81 75 79", "80 82 85"
+            "87 81 76", "70 55 33"
     };
     private static final String[] OUTPUT = {
-            "Idar, Dira, Radi", "Radi, Idar, Dira", "Dira, Radi, Idar"
+            "80.5", "49.95"
     };
 
     @Test
