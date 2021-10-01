@@ -9,11 +9,10 @@ import java.io.*;
 public class TestJurnal02 {
 
     private static final String[] INPUT = {
-            "43","512"
+            "Implementasi Algoritma\n6","512"
     };
     private static final String[] OUTPUT = {
-            "Penghasilan kotor = 43 juta Rupiah\nPajak 5% = Rp. 2150000\nPenghasilan bersih = Rp. 40850000",
-			"Penghasilan kotor = 512 juta Rupiah\nPajak 30% = Rp. 153600000\nPenghasilan bersih = Rp. 358400000" 
+            "Aku suka kuliah Implementasi Algoritma.\nKuliah 6 jam per minggu rasanya kurang.\nTambahin dong jadi 12 jam per minggu :)" 
     };
 
     @Test
