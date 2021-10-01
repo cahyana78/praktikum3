@@ -13,14 +13,10 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestTP03 {
 
     private static final String[] INPUT = {
-            "75 78 74",
-			"81 75 79",
-			"80 82 85"
+            "12 3\n","20 2"
     };
     private static final String[] OUTPUT = {
-            "Radi",
-			"Dira",
-			"Idar"
+            "3\n0","6\n2"
     };
 
     @Test
