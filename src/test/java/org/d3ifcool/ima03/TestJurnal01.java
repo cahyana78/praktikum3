@@ -9,10 +9,10 @@ import java.io.*;
 public class TestJurnal01 {
 
     private static final String[] INPUT = {
-            "10000 30"
+            "4"
     };
     private static final String[] OUTPUT = {
-            "300000"
+            "16"
     };
 
     @Test
