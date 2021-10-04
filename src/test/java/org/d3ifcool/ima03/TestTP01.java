@@ -1,4 +1,4 @@
-package org.d3ifcool.ima04;
+package org.d3ifcool.ima03;
 
 import org.junit.jupiter.api.Test;
 
@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class TestTP01 {
 
     private static final String[] INPUT = {
-            "10000 3"
+            "10000 30"
     };
     private static final String[] OUTPUT = {
             "300000"
