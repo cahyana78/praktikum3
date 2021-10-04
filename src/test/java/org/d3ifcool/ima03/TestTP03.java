@@ -1,5 +1,5 @@
 
-package org.d3ifcool.ima04;
+package org.d3ifcool.ima03;
 
 import org.junit.jupiter.api.Test;
 
