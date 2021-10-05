@@ -9,7 +9,7 @@ import java.io.*;
 public class TestJurnal02 {
 
     private static final String[] INPUT = {
-            "Implementasi Algoritma\n6","512"
+            "Implementasi Algoritma\n6"
     };
     private static final String[] OUTPUT = {
             "Aku suka kuliah Implementasi Algoritma.\nKuliah 6 jam per minggu rasanya kurang.\nTambahin dong jadi 12 jam per minggu :)" 
